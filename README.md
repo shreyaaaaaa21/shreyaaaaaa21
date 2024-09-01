@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Turning Data into Actionable Insights | Machine Learning Aficionado</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611w7rt156mx821994lunxgxkgewmmg1w56n27zmvsu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Currently diving into LSTMs, Autoencoders, Deep Learning, and exploring the capabilities of LLMs.**
+- 🌱  **Currently diving into LSTMs, Autoencoders, Deep Learning, and exploring the capabilities of LLMs.**
 
 - 📫 How to reach me **shreya.uttam2003@gmail.com**
 
